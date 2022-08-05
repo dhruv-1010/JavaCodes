@@ -1,7 +1,7 @@
 import java.util.Scanner;
 // I don't know why but am i learning this. just for marks '-' 
 // most imp ***
-public class Main
+public class userInput
 {
 	public static void main(String[] args) {
 	    Scanner sc = new Scanner(System.in); //creating scanner object 
