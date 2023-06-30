@@ -7,7 +7,7 @@ Write your code in this editor and press "Run" button to execute it.
 *******************************************************************************/
 //Class name in Camel case
 // public keyword makes it accessible anywhere within program but anyone
-public class Main
+public class HellOwoRld
 {
 //   static is its not neccessary to create a seperate object to run it
 //   void is it doesnt return anything

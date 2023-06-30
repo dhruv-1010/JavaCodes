@@ -1,0 +1,24 @@
+In Java String datatype is not a array of character it's actually a String class.
+String class doesnt have indexing features and they are not immutable.
+String class datatypes are created dynamically in heap memory 
+String class has many default constructorss rest check the next or more java files
+String methods ---->
+->int length();
+->string toUpperCase();
+->string toLowerCase();
+->string trim();
+->string substring(int begin);
+->string substring(int begin,int end);
+->string replace(char old,char new);
+->boolean startsWith(String s);
+->boolean endsWith(String s);
+->char charAt(int index);
+->int indexOf(String s);
+->int lastIndexOf(String s);
+->boolean eqauls(string s);
+->boolean equalsIgnoreCase(String s);
+->int compareTo(String s);
+0 == equals
+-ve == lesser by how much
++ve == greater by how much
+->String valueOf(int i);
